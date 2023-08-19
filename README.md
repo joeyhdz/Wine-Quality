@@ -1,6 +1,8 @@
 
 ![Copy of Beer   brewery (250 × 250 px)(14)](https://github.com/joeyhdz/Wine-Quality/assets/81498617/1ef9fc7e-6c9f-411c-9684-10e3bd3ba4d6)
-![Copy of Beer   brewery (250 × 250 px)(15)](https://github.com/joeyhdz/Wine-Quality/assets/81498617/fa843a92-6aaf-4a19-9baa-71021b62ae0e)
+![Copy of Beer   brewery (250 × 250 px)(16)](https://github.com/joeyhdz/Wine-Quality/assets/81498617/5efc2d3a-db4d-4230-a0c0-91ed346311b2)
+
+
 
 # Introduction
 The world of wine is intricate and fascinating, with numerous factors influencing the quality of wines produced. This project aims to delve into the Wine Quality Dataset to uncover patterns, relationships, and insights that shed light on what makes a wine exceptional.
